@@ -49,6 +49,7 @@ section > h1 {
 }
 .social > li {
   display: inline-block;
+  text-align: center;
 }
 
 .introduction > p,
